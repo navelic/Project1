@@ -22,5 +22,5 @@ public class UserRepository extends CrudRepository {
 			return theUser.get(0);
 		else		
 			return null;
-	}	
+	}
 }
